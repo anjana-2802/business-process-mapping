@@ -77,7 +77,11 @@ The TO-BE diagram presents a redesigned workflow that addresses the identified g
 - Identified manual bottlenecks in the material requisition and approval flow between Stores and Production
 - QA inspection steps were not consistently integrated into the production workflow, leading to rework loops
 - Vendor communication lacked a standardized process, causing delays in procurement cycles
-- Proposed a unified material tracking flow across Supply Chain and Stores to reduce duplication
+- Lack of updated machinery.
+- Opportunities for Automation and Digitization
+- Many repetitive tasks could be automated to improve consistency and speed.
+- Adoption of digital tools for SOP access, performance monitoring, and communication was limited 
+but highly needed. 
 
 ---
 
